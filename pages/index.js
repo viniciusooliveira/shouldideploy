@@ -20,13 +20,13 @@ class Page extends React.Component {
       timezoneError = true
     }
     this.state = {
-      timezone: timezoneError ? 'UTC' : this.props.timezone,
-      now: new Time(timezoneError ? 'UTC' : this.props.timezone)
+      timezone: timezoneError ? 'America/Sao_Paulo' : this.props.timezone,
+      now: new Time(timezoneError ? 'America/Sao_Paulo' : this.props.timezone)
     }
   }
 
   static async getInitialProps(request) {
-    let timezone = request.query.tz || 'UTC'
+    let timezone = request.query.tz || 'America/Sao_Paulo'
 
     return {
       timezone: timezone

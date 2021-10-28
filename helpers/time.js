@@ -1,5 +1,5 @@
 export default class Time {
-  static DEFAULT_TIMEZONE = 'UTC'
+  static DEFAULT_TIMEZONE = 'America/Sao_Paulo'
 
   constructor(timezone) {
     this.timezone = timezone || Time.DEFAULT_TIMEZONE
