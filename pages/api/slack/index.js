@@ -14,7 +14,6 @@ export default (req, res) => {
   const reasonText = chosenReason.reason
   const gifUrl = getRandom(chosenReason.gifs)
 
-
   res.status(200).json({
     response_type: time ? 'in_channel' : 'ephemeral',
     blocks: [
@@ -22,9 +21,8 @@ export default (req, res) => {
         type: 'section',
         text: {
           type: 'mrkdwn',
-          text: '*'+time
-          ? reasonText
-          : `Invalid time zone: '${timezone}'`+'*'
+          text:
+            '*' + time ? reasonText : `Invalid time zone: '${timezone}'` + '*'
         },
         accessory: {
           type: 'image',
@@ -33,7 +31,7 @@ export default (req, res) => {
       },
       {
         type: 'image',
-        image_url: gifUrl,
+        image_url: gifUrl
       }
     ]
   })
