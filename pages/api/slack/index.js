@@ -19,20 +19,20 @@ export default (req, res) => {
     response_type: time ? 'in_channel' : 'ephemeral',
     blocks: [
       {
-        type: "section",
+        type: 'section',
         text: {
-          type: "mrkdwn",
-          text: "*"+time
+          type: 'mrkdwn',
+          text: '*'+time
           ? reasonText
-          : `Invalid time zone: '${timezone}'`+"*"
+          : `Invalid time zone: '${timezone}'`+'*'
         },
         accessory: {
-          type: "image",
+          type: 'image',
           image_url: shouldIDeployAnswerImage(time)
         }
       },
       {
-        type: "image",
+        type: 'image',
         image_url: gifUrl,
       }
     ]
