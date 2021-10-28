@@ -26,9 +26,9 @@ export default (req, res) => {
         accessory: {
           type: 'image',
           alt_text: '',
-          image_url: gifUrl//shouldIDeployAnswerImage(time)
+          image_url: gifUrl //shouldIDeployAnswerImage(time)
         }
-      }//,
+      } //,
       // {
       //   type: 'image',
       //   alt_text: '',
