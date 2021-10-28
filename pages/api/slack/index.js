@@ -1,6 +1,7 @@
 import {
   getRandom,
   dayHelper,
+  shouldIDeployText,
   shouldIDeployAnswerImage,
   shouldIDeployColorTheme,
   shouldIDeployFavIcon
