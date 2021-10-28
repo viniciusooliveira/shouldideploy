@@ -11,7 +11,7 @@ export default (req, res) => {
   let timezone = req.body.text || req.query.tz || Time.DEFAULT_TIMEZONE
   let time = Time.validOrNull(timezone)
   const chosenReason = getRandom(dayHelper(time))
-  const reasonText = `*${chosenReason.reason}*`
+  const reasonText = `*${shouldIDeployText(time)}*\n*${chosenReason.reason}*`
   const gifUrl = getRandom(chosenReason.gifs)
 
   res.status(200).json({
@@ -26,14 +26,14 @@ export default (req, res) => {
         accessory: {
           type: 'image',
           alt_text: '',
-          image_url: shouldIDeployAnswerImage(time)
+          image_url: gifUrl//shouldIDeployAnswerImage(time)
         }
-      },
-      {
-        type: 'image',
-        alt_text: '',
-        image_url: gifUrl
-      }
+      }//,
+      // {
+      //   type: 'image',
+      //   alt_text: '',
+      //   image_url: gifUrl
+      // }
     ]
   })
 

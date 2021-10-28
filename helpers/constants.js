@@ -15,6 +15,10 @@ export const shouldIDeploy = function (time) {
   return time && !time.isFriday() && !time.isWeekend()
 }
 
+export const shouldIDeployText = function (time) {
+  return shouldIDeploy(time) ? 'Yes!' : 'No!'
+}
+
 export const shouldIDeployAnswerImage = function (time) {
   return shouldIDeploy(time) ? `${HOST}/yes.png` : `${HOST}/no.png`
 }
