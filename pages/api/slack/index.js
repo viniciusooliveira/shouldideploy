@@ -4,7 +4,7 @@ import {
   shouldIDeployAnswerImage,
   shouldIDeployColorTheme,
   shouldIDeployFavIcon
-} from '../../../helpers/constans'
+} from '../../../helpers/constants'
 import Time from '../../../helpers/time'
 
 export default (req, res) => {
@@ -16,7 +16,7 @@ export default (req, res) => {
     attachments: [
       {
         text: time
-          ? getRandom(dayHelper(time))
+          ? getRandom(dayHelper(time)).reason
           : `Invalid time zone: '${timezone}'`,
         color: shouldIDeployColorTheme(time),
         thumb_url: shouldIDeployAnswerImage(time),
