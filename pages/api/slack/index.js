@@ -11,7 +11,7 @@ export default (req, res) => {
   let timezone = req.body.text || req.query.tz || Time.DEFAULT_TIMEZONE
   let time = Time.validOrNull(timezone)
   const chosenReason = getRandom(dayHelper(time))
-  const reasonText = chosenReason.reason
+  const reasonText = `*${chosenReason.reason}*`
   const gifUrl = getRandom(chosenReason.gifs)
 
   res.status(200).json({
@@ -21,8 +21,7 @@ export default (req, res) => {
         type: 'section',
         text: {
           type: 'mrkdwn',
-          text:
-            '*' + time ? reasonText : `Invalid time zone: '${timezone}'` + '*'
+          text: time ? reasonText : `Invalid time zone: '${timezone}'`
         },
         accessory: {
           type: 'image',
