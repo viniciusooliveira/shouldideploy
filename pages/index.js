@@ -68,17 +68,10 @@ class Page extends React.Component {
             href={this.state.favicon}
             sizes="32x32"
           />
-          <meta
-            property="og:image"
-            content={this.state.answerImage}
-          />
+          <meta property="og:image" content={this.state.answerImage} />
           <title>Should I Deploy Today?</title>
         </Head>
-        <div
-          className={`wrapper ${
-            !this.state.shouldIDeploy && 'its-friday'
-          }`}
-        >
+        <div className={`wrapper ${!this.state.shouldIDeploy && 'its-friday'}`}>
           <Widget now={this.state.now} />
           <div className="meta">
             <Footer
