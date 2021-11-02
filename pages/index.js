@@ -23,6 +23,7 @@ class Page extends React.Component {
       timezone: timezoneError ? 'America/Sao_Paulo' : this.props.timezone,
       now: new Time(timezoneError ? 'America/Sao_Paulo' : this.props.timezone)
     }
+    this.loadInfo()
   }
 
   static async getInitialProps(request) {
@@ -31,6 +32,15 @@ class Page extends React.Component {
     return {
       timezone: timezone
     }
+  }
+
+  loadInfo = async () => {
+    this.setState({
+      ...this.state,
+      favicon: await shouldIDeployFavIcon(this.state.now),
+      answerImage: await shouldIDeployAnswerImage(this.state.now),
+      shouldIDeploy: await shouldIDeploy(this.state.now)
+    })
   }
 
   changeTimeZone = (timezone) => {
@@ -45,6 +55,7 @@ class Page extends React.Component {
       timezone: timezone,
       now: new Time(timezone)
     })
+    this.loadInfo()
   }
 
   render() {
@@ -54,18 +65,18 @@ class Page extends React.Component {
           <link
             rel="icon"
             type="image/png"
-            href={shouldIDeployFavIcon(this.state.now)}
+            href={this.state.favicon}
             sizes="32x32"
           />
           <meta
             property="og:image"
-            content={shouldIDeployAnswerImage(this.state.now)}
+            content={this.state.answerImage}
           />
           <title>Should I Deploy Today?</title>
         </Head>
         <div
           className={`wrapper ${
-            !shouldIDeploy(this.state.now) && 'its-friday'
+            !this.state.shouldIDeploy && 'its-friday'
           }`}
         >
           <Widget now={this.state.now} />

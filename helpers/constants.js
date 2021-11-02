@@ -11,25 +11,22 @@ import {
 
 export const HOST = 'https://shouldideploy.today'
 
-export const shouldIDeploy = function (time) {
-  return time && !time.isFriday() && !time.isWeekend()
-}
+export const shouldIDeploy = async (time) => 
+  time && !time.isFriday() && !time.isWeekend() && await !time.isHoliday()
 
-export const shouldIDeployText = function (time) {
-  return shouldIDeploy(time) ? 'Yes!' : 'No!'
-}
+export const shouldIDeployText = async (time) => 
+  await shouldIDeploy(time) ? 'Yes!' : 'No!'
 
-export const shouldIDeployAnswerImage = function (time) {
-  return shouldIDeploy(time) ? `${HOST}/yes.png` : `${HOST}/no.png`
-}
+export const shouldIDeployAnswerImage = async (time) => 
+  await shouldIDeploy(time) ? `${HOST}/yes.png` : `${HOST}/no.png`
 
-export const shouldIDeployColorTheme = function (time) {
-  return shouldIDeploy(time) ? '#36a64f' : '#ff4136'
-}
+export const shouldIDeployColorTheme = async (time) =>
+  await shouldIDeploy(time) ? '#36a64f' : '#ff4136'
 
-export const shouldIDeployFavIcon = function (time) {
-  return shouldIDeploy(time) ? `${HOST}/dots.png` : `${HOST}/dots-red.png`
-}
+
+export const shouldIDeployFavIcon = async (time) =>
+  await shouldIDeploy(time) ? `${HOST}/dots.png` : `${HOST}/dots-red.png`
+
 
 export const getRandom = function ranDay(list) {
   return list[Math.floor(Math.random() * list.length)]
@@ -39,7 +36,7 @@ export const getRandom = function ranDay(list) {
  * Return a list of reasons according of time parameter
  * @param string[]
  */
-export function dayHelper(time) {
+export async function dayHelper(time) {
   time = time || new Time()
 
   if (time.isFriday13th()) {
@@ -53,6 +50,11 @@ export function dayHelper(time) {
   if (time.isFriday()) {
     return REASONS_TO_NOT_DEPLOY
   }
+
+  if (await time.isHoliday()) {
+    return REASONS_TO_NOT_DEPLOY
+  }
+
   if (time.isThursdayAfternoon()) {
     return REASONS_FOR_THURSDAY_AFTERNOON
   }

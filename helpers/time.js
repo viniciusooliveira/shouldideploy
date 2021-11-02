@@ -1,3 +1,7 @@
+import {
+  IsHoliday
+} from './holidays-api'
+
 export default class Time {
   static DEFAULT_TIMEZONE = 'America/Sao_Paulo'
 
@@ -100,5 +104,9 @@ export default class Time {
    */
   isWeekend() {
     return this.now().getDay() === 6 || this.now().getDay() === 0
+  }
+
+  async isHoliday(){
+    return await IsHoliday(this.now());
   }
 }

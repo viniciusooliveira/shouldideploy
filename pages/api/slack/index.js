@@ -8,11 +8,11 @@ import {
 } from '../../../helpers/constants'
 import Time from '../../../helpers/time'
 
-export default (req, res) => {
+export default async (req, res) => {
   let timezone = req.body.text || req.query.tz || Time.DEFAULT_TIMEZONE
   let time = Time.validOrNull(timezone)
-  const chosenReason = getRandom(dayHelper(time))
-  const reasonText = `*${shouldIDeployText(time)}*\n*${chosenReason.reason}*`
+  const chosenReason = getRandom(await dayHelper(time))
+  const reasonText = `*${await shouldIDeployText(time)}*\n*${chosenReason.reason}*`
   const gifUrl = getRandom(chosenReason.gifs)
 
   res.status(200).json({
