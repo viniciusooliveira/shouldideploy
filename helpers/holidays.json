@@ -1,0 +1,958 @@
+[
+  {
+    "date": "01/01/2022",
+    "name": "Ano Novo",
+    "link": "http://www.calendario.com.br/feriados-nacionais/ano-novo.php",
+    "type": "Feriado Nacional",
+    "description": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+    "type_code": "1"
+  },
+  {
+    "date": "20/01/2022",
+    "name": "Dia de São Sebastião, Padroeiro da cidade",
+    "link": "http://leismunicipa.is/nesbp",
+    "type": "Feriado Municipal",
+    "description": "conforme Lei nº 5146 de 7 de janeiro 2010",
+    "type_code": 3,
+    "raw_description": "conforme Lei nº 5146 de 7 de janeiro 2010"
+  },
+  {
+    "date": "28/02/2022",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
+    "type_code": "4"
+  },
+  {
+    "date": "28/02/2022",
+    "name": "Segunda de Carnaval",
+    "link": "",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo nas repartições públicas",
+    "type_code": "4",
+    "raw_description": "Ponto Facultativo nas repartições públicas"
+  },
+  {
+    "date": "01/03/2022",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Carnaval NÃO é um feriado oficial, é Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
+    "type_code": "4"
+  },
+  {
+    "date": "01/03/2022",
+    "name": "Carnaval",
+    "link": "",
+    "type": "Feriado Estadual",
+    "description": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+    "type_code": "2",
+    "raw_description": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil"
+  },
+  {
+    "date": "02/03/2022",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo até às 14h.",
+    "type_code": "4"
+  },
+  {
+    "date": "02/03/2022",
+    "name": "Quarta Feira de Cinzas",
+    "link": "",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo nas repartições públicas",
+    "type_code": "4",
+    "raw_description": "Ponto Facultativo nas repartições públicas"
+  },
+  {
+    "date": "01/04/2022",
+    "name": "Dia da Mentira",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Dia da mentira, dia das petas, dia dos tolos ou dia dos bobos.",
+    "type_code": "9"
+  },
+  {
+    "date": "15/04/2022",
+    "name": "Sexta-Feira Santa",
+    "link": "http://www.calendario.com.br/feriados-nacionais/sexta-feira-santa.php",
+    "type": "Feriado Nacional",
+    "description": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+    "type_code": "1"
+  },
+  {
+    "date": "17/04/2022",
+    "name": "Páscoa",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "A Páscoa é um evento religioso cristão, normalmente considerado pelas igrejas ligadas a esta corrente religiosa como a maior e a mais importante festa da Cristandade. Na Páscoa os cristãos celebram a Ressurreição de Jesus Cristo depois da sua morte.",
+    "type_code": "9"
+  },
+  {
+    "date": "21/04/2022",
+    "name": "Dia de Tiradentes",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-de-tiradentes.php",
+    "type": "Feriado Nacional",
+    "description": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+    "type_code": "1"
+  },
+  {
+    "date": "23/04/2022",
+    "name": "Dia de São Jorge",
+    "link": "http://leismunicipa.is/nesbp",
+    "type": "Feriado Municipal",
+    "description": "conforme Lei nº 5146 de 7 de janeiro 2010",
+    "type_code": 3,
+    "raw_description": "conforme Lei nº 5146 de 7 de janeiro 2010"
+  },
+  {
+    "date": "01/05/2022",
+    "name": "Dia do Trabalho",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-do-trabalho.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+    "type_code": "1"
+  },
+  {
+    "date": "08/05/2022",
+    "name": "Dia das Mães",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "O Dia das Mães teve a sua origem no princípio do século XX, quando uma jovem norte-americana, Anna Jarvis, perdeu sua mãe e entrou em completa depressão. Preocupadas com aquele sofrimento, algumas amigas tiveram a ideia de criar uma data para comemorar o dia das mães.",
+    "type_code": "9"
+  },
+  {
+    "date": "12/06/2022",
+    "name": "Dia dos Namorados",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "O Dia dos Namorados ou Dia de São Valentim é uma data comemorativa na qual se celebra a união amorosa entre casais sendo comum a troca de cartões e presentes.",
+    "type_code": "9"
+  },
+  {
+    "date": "16/06/2022",
+    "name": "Corpus Christi",
+    "link": "http://www.calendario.com.br/feriados-nacionais/corpus-christi.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo no País, mas Feriado Municipal em algumas cidades.. Corpus Christi, expressão latina que significa Corpo de Cristo, é uma festa Cristã realizada na quinta-feira seguinte ao domingo da Santíssima Trindade.",
+    "type_code": "4"
+  },
+  {
+    "date": "14/08/2022",
+    "name": "Dia dos Pais",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Em 1909, nos Estados Unidos, Sonora Luise resolveu criar um dia dedicado aos pais, motivada pela admiração que sentia pelo seu pai, William Jackson Smart. O interesse pela data difundiu-se da cidade de Spokane para todo o Estado de Washington e para o Mundo.",
+    "type_code": "9"
+  },
+  {
+    "date": "07/09/2022",
+    "name": "Independência do Brasil",
+    "link": "http://www.calendario.com.br/feriados-nacionais/independencia-do-brasil.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+    "type_code": "1"
+  },
+  {
+    "date": "12/10/2022",
+    "name": "Nossa Senhora Aparecida",
+    "link": "http://www.calendario.com.br/feriados-nacionais/nossa-senhora-aparecida.php",
+    "type": "Feriado Nacional",
+    "description": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+    "type_code": "1"
+  },
+  {
+    "date": "15/10/2022",
+    "name": "Dia do Professor",
+    "link": "http://www.calendario.com.br/docs/dia-do-professor.html",
+    "type": "Facultativo",
+    "description": "FERIADO ESCOLAR - No dia 15 de outubro de 1827 (dia consagrado à educadora Santa Teresa de Ávila), o Imperador do Brasil, Pedro I,  baixou um Decreto Imperial que criou o Ensino Elementar no Brasil. Pelo decreto, \"todas as cidades, vilas e lugarejos teriam suas escolas de primeiras letras\"",
+    "type_code": "4"
+  },
+  {
+    "date": "17/10/2022",
+    "name": "Dia do Comércio",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Comemoração do dia do comércio. Em algumas cidades do Brasil o comércio poderá fechar, dependendo de acordos entre os sindicatos e patrões.",
+    "type_code": "9"
+  },
+  {
+    "date": "17/10/2022",
+    "name": "Dia do Comerciário",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "FERIADO NO COMÉRCIO: Criado pela Lei 12.790 de 14 de março de 2013, o dia do Comércio ou Dia do Comerciário é oficialmente comemorado no dia 30 de outubro. No Estado do Rio de Janeiro o Dia do Comerciário é comemorado com um feriado estadual para os trabalhadores do comércio, na 3ª segunda-feira de outubro",
+    "type_code": "9",
+    "raw_description": "FERIADO NO COMÉRCIO: Criado pela Lei 12.790 de 14 de março de 2013, o dia do Comércio ou Dia do Comerciário é oficialmente comemorado no dia 30 de outubro. No Estado do Rio de Janeiro o Dia do Comerciário é comemorado com um feriado estadual para os trabalhadores do comércio, na 3ª segunda-feira de outubro"
+  },
+  {
+    "date": "28/10/2022",
+    "name": "Dia do Servidor Público",
+    "link": "",
+    "type": "Facultativo",
+    "description": "O dia do servidor público é feriado apenas para funcionários públicos.",
+    "type_code": "4"
+  },
+  {
+    "date": "02/11/2022",
+    "name": "Dia de Finados",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-de-finados.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+    "type_code": "1"
+  },
+  {
+    "date": "15/11/2022",
+    "name": "Proclamação da República",
+    "link": "http://www.calendario.com.br/feriados-nacionais/proclamacao-da-republica.php",
+    "type": "Feriado Nacional",
+    "description": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+    "type_code": "1"
+  },
+  {
+    "date": "20/11/2022",
+    "name": "Consciência Negra",
+    "link": "http://www.calendario.com.br/feriados-nacionais/consciencia-negra.php",
+    "type": "Dia Convencional",
+    "description": "Apesar de ser comemorado em todo o território nacional, conforme indica a Lei Federal nº 12.519, de 10 de novembro de 2011, o Dia Nacional de Zumbi e da Consciência Negra não é feriado. No entanto, alguns municípios decretam feriado municipal neste dia.",
+    "type_code": "9"
+  },
+  {
+    "date": "20/11/2022",
+    "name": "Dia da Consciência Negra",
+    "link": "",
+    "type": "Feriado Estadual",
+    "description": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+    "type_code": "2",
+    "raw_description": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695."
+  },
+  {
+    "date": "25/12/2022",
+    "name": "Natal",
+    "link": "http://www.calendario.com.br/feriados-nacionais/natal.php",
+    "type": "Feriado Nacional",
+    "description": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+    "type_code": "1"
+  },
+  {
+    "date": "01/01/2023",
+    "name": "Ano Novo",
+    "link": "http://www.calendario.com.br/feriados-nacionais/ano-novo.php",
+    "type": "Feriado Nacional",
+    "description": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+    "type_code": "1"
+  },
+  {
+    "date": "20/01/2023",
+    "name": "Dia de São Sebastião, Padroeiro da cidade",
+    "link": "http://leismunicipa.is/nesbp",
+    "type": "Feriado Municipal",
+    "description": "conforme Lei nº 5146 de 7 de janeiro 2010",
+    "type_code": 3,
+    "raw_description": "conforme Lei nº 5146 de 7 de janeiro 2010"
+  },
+  {
+    "date": "20/02/2023",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
+    "type_code": "4"
+  },
+  {
+    "date": "20/02/2023",
+    "name": "Segunda de Carnaval",
+    "link": "",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo nas repartições públicas",
+    "type_code": "4",
+    "raw_description": "Ponto Facultativo nas repartições públicas"
+  },
+  {
+    "date": "21/02/2023",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Carnaval NÃO é um feriado oficial, é Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
+    "type_code": "4"
+  },
+  {
+    "date": "21/02/2023",
+    "name": "Carnaval",
+    "link": "",
+    "type": "Feriado Estadual",
+    "description": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+    "type_code": "2",
+    "raw_description": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil"
+  },
+  {
+    "date": "22/02/2023",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo até às 14h.",
+    "type_code": "4"
+  },
+  {
+    "date": "22/02/2023",
+    "name": "Quarta Feira de Cinzas",
+    "link": "",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo nas repartições públicas",
+    "type_code": "4",
+    "raw_description": "Ponto Facultativo nas repartições públicas"
+  },
+  {
+    "date": "01/04/2023",
+    "name": "Dia da Mentira",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Dia da mentira, dia das petas, dia dos tolos ou dia dos bobos.",
+    "type_code": "9"
+  },
+  {
+    "date": "07/04/2023",
+    "name": "Sexta-Feira Santa",
+    "link": "http://www.calendario.com.br/feriados-nacionais/sexta-feira-santa.php",
+    "type": "Feriado Nacional",
+    "description": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+    "type_code": "1"
+  },
+  {
+    "date": "09/04/2023",
+    "name": "Páscoa",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "A Páscoa é um evento religioso cristão, normalmente considerado pelas igrejas ligadas a esta corrente religiosa como a maior e a mais importante festa da Cristandade. Na Páscoa os cristãos celebram a Ressurreição de Jesus Cristo depois da sua morte.",
+    "type_code": "9"
+  },
+  {
+    "date": "21/04/2023",
+    "name": "Dia de Tiradentes",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-de-tiradentes.php",
+    "type": "Feriado Nacional",
+    "description": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+    "type_code": "1"
+  },
+  {
+    "date": "23/04/2023",
+    "name": "Dia de São Jorge",
+    "link": "http://leismunicipa.is/nesbp",
+    "type": "Feriado Municipal",
+    "description": "conforme Lei nº 5146 de 7 de janeiro 2010",
+    "type_code": 3,
+    "raw_description": "conforme Lei nº 5146 de 7 de janeiro 2010"
+  },
+  {
+    "date": "01/05/2023",
+    "name": "Dia do Trabalho",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-do-trabalho.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+    "type_code": "1"
+  },
+  {
+    "date": "14/05/2023",
+    "name": "Dia das Mães",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "O Dia das Mães teve a sua origem no princípio do século XX, quando uma jovem norte-americana, Anna Jarvis, perdeu sua mãe e entrou em completa depressão. Preocupadas com aquele sofrimento, algumas amigas tiveram a ideia de criar uma data para comemorar o dia das mães.",
+    "type_code": "9"
+  },
+  {
+    "date": "08/06/2023",
+    "name": "Corpus Christi",
+    "link": "http://www.calendario.com.br/feriados-nacionais/corpus-christi.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo no País, mas Feriado Municipal em algumas cidades.. Corpus Christi, expressão latina que significa Corpo de Cristo, é uma festa Cristã realizada na quinta-feira seguinte ao domingo da Santíssima Trindade.",
+    "type_code": "4"
+  },
+  {
+    "date": "12/06/2023",
+    "name": "Dia dos Namorados",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "O Dia dos Namorados ou Dia de São Valentim é uma data comemorativa na qual se celebra a união amorosa entre casais sendo comum a troca de cartões e presentes.",
+    "type_code": "9"
+  },
+  {
+    "date": "13/08/2023",
+    "name": "Dia dos Pais",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Em 1909, nos Estados Unidos, Sonora Luise resolveu criar um dia dedicado aos pais, motivada pela admiração que sentia pelo seu pai, William Jackson Smart. O interesse pela data difundiu-se da cidade de Spokane para todo o Estado de Washington e para o Mundo.",
+    "type_code": "9"
+  },
+  {
+    "date": "07/09/2023",
+    "name": "Independência do Brasil",
+    "link": "http://www.calendario.com.br/feriados-nacionais/independencia-do-brasil.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+    "type_code": "1"
+  },
+  {
+    "date": "12/10/2023",
+    "name": "Nossa Senhora Aparecida",
+    "link": "http://www.calendario.com.br/feriados-nacionais/nossa-senhora-aparecida.php",
+    "type": "Feriado Nacional",
+    "description": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+    "type_code": "1"
+  },
+  {
+    "date": "15/10/2023",
+    "name": "Dia do Professor",
+    "link": "http://www.calendario.com.br/docs/dia-do-professor.html",
+    "type": "Facultativo",
+    "description": "FERIADO ESCOLAR - No dia 15 de outubro de 1827 (dia consagrado à educadora Santa Teresa de Ávila), o Imperador do Brasil, Pedro I,  baixou um Decreto Imperial que criou o Ensino Elementar no Brasil. Pelo decreto, \"todas as cidades, vilas e lugarejos teriam suas escolas de primeiras letras\"",
+    "type_code": "4"
+  },
+  {
+    "date": "16/10/2023",
+    "name": "Dia do Comerciário",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "FERIADO NO COMÉRCIO: Criado pela Lei 12.790 de 14 de março de 2013, o dia do Comércio ou Dia do Comerciário é oficialmente comemorado no dia 30 de outubro. No Estado do Rio de Janeiro o Dia do Comerciário é comemorado com um feriado estadual para os trabalhadores do comércio, na 3ª segunda-feira de outubro",
+    "type_code": "9",
+    "raw_description": "FERIADO NO COMÉRCIO: Criado pela Lei 12.790 de 14 de março de 2013, o dia do Comércio ou Dia do Comerciário é oficialmente comemorado no dia 30 de outubro. No Estado do Rio de Janeiro o Dia do Comerciário é comemorado com um feriado estadual para os trabalhadores do comércio, na 3ª segunda-feira de outubro"
+  },
+  {
+    "date": "17/10/2023",
+    "name": "Dia do Comércio",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Comemoração do dia do comércio. Em algumas cidades do Brasil o comércio poderá fechar, dependendo de acordos entre os sindicatos e patrões.",
+    "type_code": "9"
+  },
+  {
+    "date": "28/10/2023",
+    "name": "Dia do Servidor Público",
+    "link": "",
+    "type": "Facultativo",
+    "description": "O dia do servidor público é feriado apenas para funcionários públicos.",
+    "type_code": "4"
+  },
+  {
+    "date": "02/11/2023",
+    "name": "Dia de Finados",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-de-finados.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+    "type_code": "1"
+  },
+  {
+    "date": "15/11/2023",
+    "name": "Proclamação da República",
+    "link": "http://www.calendario.com.br/feriados-nacionais/proclamacao-da-republica.php",
+    "type": "Feriado Nacional",
+    "description": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+    "type_code": "1"
+  },
+  {
+    "date": "20/11/2023",
+    "name": "Consciência Negra",
+    "link": "http://www.calendario.com.br/feriados-nacionais/consciencia-negra.php",
+    "type": "Dia Convencional",
+    "description": "Apesar de ser comemorado em todo o território nacional, conforme indica a Lei Federal nº 12.519, de 10 de novembro de 2011, o Dia Nacional de Zumbi e da Consciência Negra não é feriado. No entanto, alguns municípios decretam feriado municipal neste dia.",
+    "type_code": "9"
+  },
+  {
+    "date": "20/11/2023",
+    "name": "Dia da Consciência Negra",
+    "link": "",
+    "type": "Feriado Estadual",
+    "description": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+    "type_code": "2",
+    "raw_description": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695."
+  },
+  {
+    "date": "25/12/2023",
+    "name": "Natal",
+    "link": "http://www.calendario.com.br/feriados-nacionais/natal.php",
+    "type": "Feriado Nacional",
+    "description": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+    "type_code": "1"
+  },
+  {
+    "date": "01/01/2024",
+    "name": "Ano Novo",
+    "link": "http://www.calendario.com.br/feriados-nacionais/ano-novo.php",
+    "type": "Feriado Nacional",
+    "description": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+    "type_code": "1"
+  },
+  {
+    "date": "20/01/2024",
+    "name": "Dia de São Sebastião, Padroeiro da cidade",
+    "link": "http://leismunicipa.is/nesbp",
+    "type": "Feriado Municipal",
+    "description": "conforme Lei nº 5146 de 7 de janeiro 2010",
+    "type_code": 3,
+    "raw_description": "conforme Lei nº 5146 de 7 de janeiro 2010"
+  },
+  {
+    "date": "12/02/2024",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
+    "type_code": "4"
+  },
+  {
+    "date": "12/02/2024",
+    "name": "Segunda de Carnaval",
+    "link": "",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo nas repartições públicas",
+    "type_code": "4",
+    "raw_description": "Ponto Facultativo nas repartições públicas"
+  },
+  {
+    "date": "13/02/2024",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Carnaval NÃO é um feriado oficial, é Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
+    "type_code": "4"
+  },
+  {
+    "date": "13/02/2024",
+    "name": "Carnaval",
+    "link": "",
+    "type": "Feriado Estadual",
+    "description": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+    "type_code": "2",
+    "raw_description": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil"
+  },
+  {
+    "date": "14/02/2024",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo até às 14h.",
+    "type_code": "4"
+  },
+  {
+    "date": "14/02/2024",
+    "name": "Quarta Feira de Cinzas",
+    "link": "",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo nas repartições públicas",
+    "type_code": "4",
+    "raw_description": "Ponto Facultativo nas repartições públicas"
+  },
+  {
+    "date": "29/03/2024",
+    "name": "Sexta-Feira Santa",
+    "link": "http://www.calendario.com.br/feriados-nacionais/sexta-feira-santa.php",
+    "type": "Feriado Nacional",
+    "description": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+    "type_code": "1"
+  },
+  {
+    "date": "31/03/2024",
+    "name": "Páscoa",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "A Páscoa é um evento religioso cristão, normalmente considerado pelas igrejas ligadas a esta corrente religiosa como a maior e a mais importante festa da Cristandade. Na Páscoa os cristãos celebram a Ressurreição de Jesus Cristo depois da sua morte.",
+    "type_code": "9"
+  },
+  {
+    "date": "01/04/2024",
+    "name": "Dia da Mentira",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Dia da mentira, dia das petas, dia dos tolos ou dia dos bobos.",
+    "type_code": "9"
+  },
+  {
+    "date": "21/04/2024",
+    "name": "Dia de Tiradentes",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-de-tiradentes.php",
+    "type": "Feriado Nacional",
+    "description": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+    "type_code": "1"
+  },
+  {
+    "date": "23/04/2024",
+    "name": "Dia de São Jorge",
+    "link": "http://leismunicipa.is/nesbp",
+    "type": "Feriado Municipal",
+    "description": "conforme Lei nº 5146 de 7 de janeiro 2010",
+    "type_code": 3,
+    "raw_description": "conforme Lei nº 5146 de 7 de janeiro 2010"
+  },
+  {
+    "date": "01/05/2024",
+    "name": "Dia do Trabalho",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-do-trabalho.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+    "type_code": "1"
+  },
+  {
+    "date": "12/05/2024",
+    "name": "Dia das Mães",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "O Dia das Mães teve a sua origem no princípio do século XX, quando uma jovem norte-americana, Anna Jarvis, perdeu sua mãe e entrou em completa depressão. Preocupadas com aquele sofrimento, algumas amigas tiveram a ideia de criar uma data para comemorar o dia das mães.",
+    "type_code": "9"
+  },
+  {
+    "date": "30/05/2024",
+    "name": "Corpus Christi",
+    "link": "http://www.calendario.com.br/feriados-nacionais/corpus-christi.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo no País, mas Feriado Municipal em algumas cidades.. Corpus Christi, expressão latina que significa Corpo de Cristo, é uma festa Cristã realizada na quinta-feira seguinte ao domingo da Santíssima Trindade.",
+    "type_code": "4"
+  },
+  {
+    "date": "12/06/2024",
+    "name": "Dia dos Namorados",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "O Dia dos Namorados ou Dia de São Valentim é uma data comemorativa na qual se celebra a união amorosa entre casais sendo comum a troca de cartões e presentes.",
+    "type_code": "9"
+  },
+  {
+    "date": "11/08/2024",
+    "name": "Dia dos Pais",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Em 1909, nos Estados Unidos, Sonora Luise resolveu criar um dia dedicado aos pais, motivada pela admiração que sentia pelo seu pai, William Jackson Smart. O interesse pela data difundiu-se da cidade de Spokane para todo o Estado de Washington e para o Mundo.",
+    "type_code": "9"
+  },
+  {
+    "date": "07/09/2024",
+    "name": "Independência do Brasil",
+    "link": "http://www.calendario.com.br/feriados-nacionais/independencia-do-brasil.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+    "type_code": "1"
+  },
+  {
+    "date": "12/10/2024",
+    "name": "Nossa Senhora Aparecida",
+    "link": "http://www.calendario.com.br/feriados-nacionais/nossa-senhora-aparecida.php",
+    "type": "Feriado Nacional",
+    "description": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+    "type_code": "1"
+  },
+  {
+    "date": "15/10/2024",
+    "name": "Dia do Professor",
+    "link": "http://www.calendario.com.br/docs/dia-do-professor.html",
+    "type": "Facultativo",
+    "description": "FERIADO ESCOLAR - No dia 15 de outubro de 1827 (dia consagrado à educadora Santa Teresa de Ávila), o Imperador do Brasil, Pedro I,  baixou um Decreto Imperial que criou o Ensino Elementar no Brasil. Pelo decreto, \"todas as cidades, vilas e lugarejos teriam suas escolas de primeiras letras\"",
+    "type_code": "4"
+  },
+  {
+    "date": "17/10/2024",
+    "name": "Dia do Comércio",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Comemoração do dia do comércio. Em algumas cidades do Brasil o comércio poderá fechar, dependendo de acordos entre os sindicatos e patrões.",
+    "type_code": "9"
+  },
+  {
+    "date": "21/10/2024",
+    "name": "Dia do Comerciário",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "FERIADO NO COMÉRCIO: Criado pela Lei 12.790 de 14 de março de 2013, o dia do Comércio ou Dia do Comerciário é oficialmente comemorado no dia 30 de outubro. No Estado do Rio de Janeiro o Dia do Comerciário é comemorado com um feriado estadual para os trabalhadores do comércio, na 3ª segunda-feira de outubro",
+    "type_code": "9",
+    "raw_description": "FERIADO NO COMÉRCIO: Criado pela Lei 12.790 de 14 de março de 2013, o dia do Comércio ou Dia do Comerciário é oficialmente comemorado no dia 30 de outubro. No Estado do Rio de Janeiro o Dia do Comerciário é comemorado com um feriado estadual para os trabalhadores do comércio, na 3ª segunda-feira de outubro"
+  },
+  {
+    "date": "28/10/2024",
+    "name": "Dia do Servidor Público",
+    "link": "",
+    "type": "Facultativo",
+    "description": "O dia do servidor público é feriado apenas para funcionários públicos.",
+    "type_code": "4"
+  },
+  {
+    "date": "02/11/2024",
+    "name": "Dia de Finados",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-de-finados.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+    "type_code": "1"
+  },
+  {
+    "date": "15/11/2024",
+    "name": "Proclamação da República",
+    "link": "http://www.calendario.com.br/feriados-nacionais/proclamacao-da-republica.php",
+    "type": "Feriado Nacional",
+    "description": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+    "type_code": "1"
+  },
+  {
+    "date": "20/11/2024",
+    "name": "Consciência Negra",
+    "link": "http://www.calendario.com.br/feriados-nacionais/consciencia-negra.php",
+    "type": "Dia Convencional",
+    "description": "Apesar de ser comemorado em todo o território nacional, conforme indica a Lei Federal nº 12.519, de 10 de novembro de 2011, o Dia Nacional de Zumbi e da Consciência Negra não é feriado. No entanto, alguns municípios decretam feriado municipal neste dia.",
+    "type_code": "9"
+  },
+  {
+    "date": "20/11/2024",
+    "name": "Dia da Consciência Negra",
+    "link": "",
+    "type": "Feriado Estadual",
+    "description": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+    "type_code": "2",
+    "raw_description": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695."
+  },
+  {
+    "date": "25/12/2024",
+    "name": "Natal",
+    "link": "http://www.calendario.com.br/feriados-nacionais/natal.php",
+    "type": "Feriado Nacional",
+    "description": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+    "type_code": "1"
+  },
+  {
+    "date": "01/01/2025",
+    "name": "Ano Novo",
+    "link": "http://www.calendario.com.br/feriados-nacionais/ano-novo.php",
+    "type": "Feriado Nacional",
+    "description": "O Ano-Novo ou Réveillon é um evento que acontece quando uma cultura celebra o fim de um ano e o começo do próximo. A celebração do evento é também chamada Réveillon, termo oriundo do verbo francês réveiller, que em português significa DESPERTAR",
+    "type_code": "1"
+  },
+  {
+    "date": "20/01/2025",
+    "name": "Dia de São Sebastião, Padroeiro da cidade",
+    "link": "http://leismunicipa.is/nesbp",
+    "type": "Feriado Municipal",
+    "description": "conforme Lei nº 5146 de 7 de janeiro 2010",
+    "type_code": 3,
+    "raw_description": "conforme Lei nº 5146 de 7 de janeiro 2010"
+  },
+  {
+    "date": "03/03/2025",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
+    "type_code": "4"
+  },
+  {
+    "date": "03/03/2025",
+    "name": "Segunda de Carnaval",
+    "link": "",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo nas repartições públicas",
+    "type_code": "4",
+    "raw_description": "Ponto Facultativo nas repartições públicas"
+  },
+  {
+    "date": "04/03/2025",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Carnaval NÃO é um feriado oficial, é Ponto Facultativo, ou seja, cabe às empresas e orgão públicos decidirem se trabalharão ou não.",
+    "type_code": "4"
+  },
+  {
+    "date": "04/03/2025",
+    "name": "Carnaval",
+    "link": "",
+    "type": "Feriado Estadual",
+    "description": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+    "type_code": "2",
+    "raw_description": "Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil"
+  },
+  {
+    "date": "05/03/2025",
+    "name": "Carnaval",
+    "link": "http://www.calendario.com.br/feriados-nacionais/carnaval.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo até às 14h.",
+    "type_code": "4"
+  },
+  {
+    "date": "05/03/2025",
+    "name": "Quarta Feira de Cinzas",
+    "link": "",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo nas repartições públicas",
+    "type_code": "4",
+    "raw_description": "Ponto Facultativo nas repartições públicas"
+  },
+  {
+    "date": "01/04/2025",
+    "name": "Dia da Mentira",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Dia da mentira, dia das petas, dia dos tolos ou dia dos bobos.",
+    "type_code": "9"
+  },
+  {
+    "date": "18/04/2025",
+    "name": "Sexta-Feira Santa",
+    "link": "http://www.calendario.com.br/feriados-nacionais/sexta-feira-santa.php",
+    "type": "Feriado Nacional",
+    "description": "Também chamada de \"Sexta Feira da Paixão\" é a sexta-feira que ocorre antes do domingo de Páscoa, e é o dia que os cristãos lembram da crucificação de Cristo.",
+    "type_code": "1"
+  },
+  {
+    "date": "20/04/2025",
+    "name": "Páscoa",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "A Páscoa é um evento religioso cristão, normalmente considerado pelas igrejas ligadas a esta corrente religiosa como a maior e a mais importante festa da Cristandade. Na Páscoa os cristãos celebram a Ressurreição de Jesus Cristo depois da sua morte.",
+    "type_code": "9"
+  },
+  {
+    "date": "21/04/2025",
+    "name": "Dia de Tiradentes",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-de-tiradentes.php",
+    "type": "Feriado Nacional",
+    "description": "Joaquim José da Silva Xavier, o Tiradentes foi um dentista, tropeiro, minerador, comerciante, militar e ativista político. É reconhecido como mártir da Inconfidência Mineira e herói nacional. O dia de sua execução, 21 de abril, é feriado nacional.",
+    "type_code": "1"
+  },
+  {
+    "date": "23/04/2025",
+    "name": "Dia de São Jorge",
+    "link": "http://leismunicipa.is/nesbp",
+    "type": "Feriado Municipal",
+    "description": "conforme Lei nº 5146 de 7 de janeiro 2010",
+    "type_code": 3,
+    "raw_description": "conforme Lei nº 5146 de 7 de janeiro 2010"
+  },
+  {
+    "date": "01/05/2025",
+    "name": "Dia do Trabalho",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-do-trabalho.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia do Trabalhador ou Dia Internacional dos Trabalhadores é celebrado anualmente no dia 1º de Maio em numerosos países do mundo, sendo feriado no Brasil, em Portugal e em outros países.",
+    "type_code": "1"
+  },
+  {
+    "date": "11/05/2025",
+    "name": "Dia das Mães",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "O Dia das Mães teve a sua origem no princípio do século XX, quando uma jovem norte-americana, Anna Jarvis, perdeu sua mãe e entrou em completa depressão. Preocupadas com aquele sofrimento, algumas amigas tiveram a ideia de criar uma data para comemorar o dia das mães.",
+    "type_code": "9"
+  },
+  {
+    "date": "12/06/2025",
+    "name": "Dia dos Namorados",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "O Dia dos Namorados ou Dia de São Valentim é uma data comemorativa na qual se celebra a união amorosa entre casais sendo comum a troca de cartões e presentes.",
+    "type_code": "9"
+  },
+  {
+    "date": "19/06/2025",
+    "name": "Corpus Christi",
+    "link": "http://www.calendario.com.br/feriados-nacionais/corpus-christi.php",
+    "type": "Facultativo",
+    "description": "Ponto Facultativo no País, mas Feriado Municipal em algumas cidades.. Corpus Christi, expressão latina que significa Corpo de Cristo, é uma festa Cristã realizada na quinta-feira seguinte ao domingo da Santíssima Trindade.",
+    "type_code": "4"
+  },
+  {
+    "date": "10/08/2025",
+    "name": "Dia dos Pais",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Em 1909, nos Estados Unidos, Sonora Luise resolveu criar um dia dedicado aos pais, motivada pela admiração que sentia pelo seu pai, William Jackson Smart. O interesse pela data difundiu-se da cidade de Spokane para todo o Estado de Washington e para o Mundo.",
+    "type_code": "9"
+  },
+  {
+    "date": "07/09/2025",
+    "name": "Independência do Brasil",
+    "link": "http://www.calendario.com.br/feriados-nacionais/independencia-do-brasil.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia da Indepência do Brasil, oficialmente a data comemorada é a de 7 de setembro de 1822, em que ocorreu o chamado \"Grito do Ipiranga\".",
+    "type_code": "1"
+  },
+  {
+    "date": "12/10/2025",
+    "name": "Nossa Senhora Aparecida",
+    "link": "http://www.calendario.com.br/feriados-nacionais/nossa-senhora-aparecida.php",
+    "type": "Feriado Nacional",
+    "description": "Nossa Senhora da Conceição Aparecida é a padroeira do Brasil. Sua festa é celebrada em 12 de outubro, um feriado nacional desde que o Papa João Paulo II consagrou a Basílica em 1980.",
+    "type_code": "1"
+  },
+  {
+    "date": "15/10/2025",
+    "name": "Dia do Professor",
+    "link": "http://www.calendario.com.br/docs/dia-do-professor.html",
+    "type": "Facultativo",
+    "description": "FERIADO ESCOLAR - No dia 15 de outubro de 1827 (dia consagrado à educadora Santa Teresa de Ávila), o Imperador do Brasil, Pedro I,  baixou um Decreto Imperial que criou o Ensino Elementar no Brasil. Pelo decreto, \"todas as cidades, vilas e lugarejos teriam suas escolas de primeiras letras\"",
+    "type_code": "4"
+  },
+  {
+    "date": "17/10/2025",
+    "name": "Dia do Comércio",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "Comemoração do dia do comércio. Em algumas cidades do Brasil o comércio poderá fechar, dependendo de acordos entre os sindicatos e patrões.",
+    "type_code": "9"
+  },
+  {
+    "date": "20/10/2025",
+    "name": "Dia do Comerciário",
+    "link": "",
+    "type": "Dia Convencional",
+    "description": "FERIADO NO COMÉRCIO: Criado pela Lei 12.790 de 14 de março de 2013, o dia do Comércio ou Dia do Comerciário é oficialmente comemorado no dia 30 de outubro. No Estado do Rio de Janeiro o Dia do Comerciário é comemorado com um feriado estadual para os trabalhadores do comércio, na 3ª segunda-feira de outubro",
+    "type_code": "9",
+    "raw_description": "FERIADO NO COMÉRCIO: Criado pela Lei 12.790 de 14 de março de 2013, o dia do Comércio ou Dia do Comerciário é oficialmente comemorado no dia 30 de outubro. No Estado do Rio de Janeiro o Dia do Comerciário é comemorado com um feriado estadual para os trabalhadores do comércio, na 3ª segunda-feira de outubro"
+  },
+  {
+    "date": "28/10/2025",
+    "name": "Dia do Servidor Público",
+    "link": "",
+    "type": "Facultativo",
+    "description": "O dia do servidor público é feriado apenas para funcionários públicos.",
+    "type_code": "4"
+  },
+  {
+    "date": "02/11/2025",
+    "name": "Dia de Finados",
+    "link": "http://www.calendario.com.br/feriados-nacionais/dia-de-finados.php",
+    "type": "Feriado Nacional",
+    "description": "O Dia de Finados ou Dia dos Fiéis Defuntos, (conhecido ainda como Dia dos Mortos no México), é celebrado pela Igreja Católica no dia 2 de novembro e é Feriado Nacional.",
+    "type_code": "1"
+  },
+  {
+    "date": "15/11/2025",
+    "name": "Proclamação da República",
+    "link": "http://www.calendario.com.br/feriados-nacionais/proclamacao-da-republica.php",
+    "type": "Feriado Nacional",
+    "description": "A Proclamação da República foi um levante político-militar ocorrido em 15 de novembro de 1889 que instaurou a forma Republicana Federativa Presidencialista de governo no Brasil, derrubando a Monarquia e, por conseguinte, o imperador dom Pedro II.",
+    "type_code": "1"
+  },
+  {
+    "date": "20/11/2025",
+    "name": "Consciência Negra",
+    "link": "http://www.calendario.com.br/feriados-nacionais/consciencia-negra.php",
+    "type": "Dia Convencional",
+    "description": "Apesar de ser comemorado em todo o território nacional, conforme indica a Lei Federal nº 12.519, de 10 de novembro de 2011, o Dia Nacional de Zumbi e da Consciência Negra não é feriado. No entanto, alguns municípios decretam feriado municipal neste dia.",
+    "type_code": "9"
+  },
+  {
+    "date": "20/11/2025",
+    "name": "Dia da Consciência Negra",
+    "link": "",
+    "type": "Feriado Estadual",
+    "description": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+    "type_code": "2",
+    "raw_description": "O Dia Nacional da Consciência Negra é Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695."
+  },
+  {
+    "date": "25/12/2025",
+    "name": "Natal",
+    "link": "http://www.calendario.com.br/feriados-nacionais/natal.php",
+    "type": "Feriado Nacional",
+    "description": "O Natal é comemorado anualmente em 25 de Dezembro. Originalmente destinado a celebrar o nascimento anual do Deus Sol no solstício de inverno, foi adaptado pela Igreja Católica no 3o século d.C., para permitir a conversão dos povos pagãos sob o domínio do Império Romano, passando a comemorar o nascimento de Jesus de Nazaré.",
+    "type_code": "1"
+  }
+]

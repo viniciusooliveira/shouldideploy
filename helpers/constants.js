@@ -11,13 +11,13 @@ import {
 
 export const HOST = 'https://shouldideploy.today'
 
-export const shouldIDeploy = async (time) => 
-  time && !time.isFriday() && !time.isWeekend() && await !time.isHoliday()
+export const shouldIDeploy = async (time) =>
+  time && !time.isFriday() && !time.isWeekend() && !(await time.isHoliday())
 
-export const shouldIDeployText = async (time) => 
+export const shouldIDeployText = async (time) =>
   await shouldIDeploy(time) ? 'Yes!' : 'No!'
 
-export const shouldIDeployAnswerImage = async (time) => 
+export const shouldIDeployAnswerImage = async (time) =>
   await shouldIDeploy(time) ? `${HOST}/yes.png` : `${HOST}/no.png`
 
 export const shouldIDeployColorTheme = async (time) =>

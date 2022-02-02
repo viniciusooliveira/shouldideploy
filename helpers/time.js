@@ -107,6 +107,7 @@ export default class Time {
   }
 
   async isHoliday(){
+    console.log(await IsHoliday(this.now()));
     return await IsHoliday(this.now());
   }
 }
