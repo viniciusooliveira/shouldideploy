@@ -20,17 +20,34 @@ export default async (req, res) => {
   res.status(200).json({
     response_type: time ? 'in_channel' : 'ephemeral',
     blocks: [
+      // {
+      //   type: 'section',
+      //   text: {
+      //     type: 'mrkdwn',
+      //     text: time ? reasonText : `Invalid time zone: '${timezone}'`
+      //   },
+      //   accessory: {
+      //     type: 'image',
+      //     alt_text: '',
+      //     image_url: gifUrl //shouldIDeployAnswerImage(time)
+      //   }
+      // },
       {
         type: 'section',
         text: {
           type: 'mrkdwn',
           text: time ? reasonText : `Invalid time zone: '${timezone}'`
-        },
-        accessory: {
-          type: 'image',
-          alt_text: '',
-          image_url: gifUrl //shouldIDeployAnswerImage(time)
         }
+      },
+      {
+        type: 'image',
+        title: {
+          type: 'plain_text',
+          text: 'gif',
+          emoji: true
+        },
+        image_url: gifUrl,
+        alt_text: 'gif'
       } //,
       // {
       //   type: 'image',
